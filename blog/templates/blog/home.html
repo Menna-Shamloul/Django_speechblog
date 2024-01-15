@@ -6,6 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Blog Home from template</h1>
+    <h1>Blog Home </h1>
+    <hr>
+    {% for posts in posts %}
+    <h3>{{ posts.title }}</h3>
+    {% endfor %}
 </body>
 </html>
