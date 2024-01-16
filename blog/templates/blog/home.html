@@ -14,6 +14,8 @@
     <hr>
     {% for posts in posts %}
     <h3>{{ posts.title }}</h3>
+    <p>By: {{ posts.author }} on {{ posts.date_posted }}</p>
+    <p>{{ posts.content }}</p>
     {% endfor %}
 </body>
 </html>
