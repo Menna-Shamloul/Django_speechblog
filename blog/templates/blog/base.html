@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    # Create title
+    
     {% if title %}
         <title>{{ title }}</title>
     {% else %}
@@ -11,8 +11,9 @@
     {% endif %}
 </head>
 <body>
-    {% block content %}
     navbar
+    {% block content %}
+    
     {% endblock content %}
 </body>
 </html>
