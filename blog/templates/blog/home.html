@@ -1,7 +1,6 @@
  {% extends 'blog/base.html' %}
  {% block content %}
-    <h1>Blog Home </h1>
-    <hr>
+    
     {% for posts in posts %}
         <article class="media content-section">
             <div class="media-body">
@@ -9,6 +8,7 @@
                     <a class="mr-2" href="#">{{ posts.author }}</a>
                     <small class="text-muted">{{ posts.date_posted }}</small>
                     <h2><a class="article-title" href="#">{{ posts.title }}</a></h2>
+                    <p class="article-content">{{ posts.content }}</p>
 
                 </div>
 
