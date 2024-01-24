@@ -7,11 +7,11 @@
             {% csrf_token %}
             <fieldset class="form-group">
                 <legend class="border-bottom mb-4">Did you log out ?</legend>
-                <h4>You just logged out <a href="{% url 'login' %}">Login Again</a></h4>
+                <h4>You just logged out</h4>
                 
             </fieldset>
             <div class="form-group">
-                <button class="btn btn-outline-info" type="submit">Logout</button>
+                <button class="btn btn-outline-info" type="submit">Login Again</button>
             </div>
             <div class="border-top pt-3">
                 <small class="text-muted">Do you need create an account <a href="{% url 'register' %}">Register Now</a></small>
