@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     # own
     'blog.apps.BlogConfig',
     'users.apps.UsersConfig',
+    'crispy_forms',
     
 ]
 
@@ -139,5 +140,7 @@ STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static'), ]
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 LOGIN_REDIRECT_URL = 'blog-home'
