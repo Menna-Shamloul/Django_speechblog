@@ -18,9 +18,18 @@ def register(request):
     return render(request, 'users/register.html', {'form': form})
 
 
-@login_required()
+@login_required
 def profile(request):
-    u_form = UserUpdateForm()
+    if request.method == "POST":
+        u_form = UserUpdateForm(request.POST, instance=request.user)
+        if u_form.is_valid():
+            u_form.save()
+            messages.success(request, f'Your Profile was Updated')
+            return redirect('profile')
+
+    else:
+            u_form = UserUpdateForm(instance=request.user)
+
     context = {
         "u_form": u_form
     }
