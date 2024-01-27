@@ -1,5 +1,6 @@
 {% extends 'blog/base.html' %}
 {% block content %}
+{% load crispy_forms_tags %}
     <!--    <link rel="stylesheet" href="main.css">-->
 
     <!-- Add icon library -->
@@ -16,6 +17,17 @@
        <a href="#" id="auth-links"><i class="fa fa-twitter"></i></a>
        <a href="#" id="auth-links"><i class="fa fa-linkedin"></i></a>
        <a href="#" id="auth-links"><i class="fa fa-facebook"></i></a>
+
+        <form action="" method="post">
+            {% csrf_token %}
+            <fieldset class="form-group">
+<!--                <legend class="border-bottom mb-4">Join Today</legend>-->
+                {{ u_form|crispy }}
+            </fieldset>
+ <!--           <div class="form-group">-->
+ <!--              <button class="btn btn-outline-info" type="submit">Sign Up</button>-->
+ <!--           </div>-->
+        </form>
 
        <p><button id="btn-profile"><a href="#" id="auth-links">
         <span></span>
