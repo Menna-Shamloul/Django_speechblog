@@ -87,4 +87,80 @@ Below the user stories for the project are listed to clarify why particular feat
 | As a Site Admin | I can access an admin area so that I can get general understanding of loged in users and number of posts | &check; |
 
 [Back to top](<#table-of-content>)
+
+## Site Structure
+
+The Speech Blog site is spilte in two parts:when the user is logout( see only register and login) and when user is logged in(see home,about,profile and posts).
+
+## Design Choices
+
+* ### Color Scheme
+The color scheme chosen for ' Speech Blog' is cheerful to attract the users.
+
+![Color Platte image]()
+
+* ### Typography
+
+# **Features**
+
+## **Existing Features**
+
+### **Navigation**
+The navigation bar is very clean and straight forward. Depending if you are logged in or not different menus are visible for the site user.
+* Links that are visible to logged out users *
+* Register
+* Login/sign up
+
+![Navigation - User Not Logged IN]()
+
+* Links that are visible to logged in users:
+* Home
+* About
+* Create post
+* Profile
+* Logout
+
+![Navigation - User Logged In]()
+
+### **About**
+In about page the user can read the informations about the site.
+
+![About]()
+
+### **Home**
+In this page logged in users can see all posts.
+
+![Home]()
+
+### **Create Post**
+In this page logged in user can create posts.
+
+![Create]()
+
+### **Updata And Delete Post**
+The logged in user can update and delete his posts.
+
+![Update Post]()
+
+### **Profile Page**
+On this page user can view and updata their own profile page.
+
+![Profile Page]()
+
+### **Sign Up**
+If the site vistor has no registered user at site.
+
+![Sign Up]()
+
+### **Log Out**
+When the user logout in the navbar.
+
+![Log Out]()
+
+### **Footer**
+The footer area icludes (Home,Admin ,About).
+
+![Footer]()
+
+
     
