@@ -14,4 +14,16 @@ With this idea, I created"Speech Blog"it is blog for parents to exhange ideas an
     * [User Stories](<#user-stories>)
     * [Site Structure](<#site-structure>)
     * [Design Choices](<#design-choices>)
+* [**Existing Features**](<#existing-features>)
+    * [Navigation](<#navigation>)
+    * [About](<#about>)
+    * [Update / Delete Post](<#update-and-delete-post>)
+    * [Create Post](<#create-post>)
+    * [Profile Page](<#profile-page>)
+    * [Sign Up](<#sign-up>)
+    * [Log In](<#log-in>)
+    * [Log Out](<#log-out>)
+    * [Footer](<#footer>)
+    * [Messages](<#messages>)
+
     
