@@ -222,6 +222,57 @@ The footer area icludes (Home,Admin ,About).
 * As a Site Admin | I can access admin area so that I can get a general understanding of logged in users and posts
    * In the admin area there is an summary area in top with general inaformation.
 
+## Code Validation
+
+### HTML validation
+When validating my own code , there is no errors.
+![HTML Result]()
+
+### CSS Validation
+when validating my own code, there is no errors.
+![CSS Result]()
+
+### Python Validation
+When validating my own code, there is no errors
+![Python Result]()
+
+### Manual Testing
+
+| Status | **Main Website - User Logged Out**
+|:-------:|:-------|
+| &check; | Pasting page that need authentication loads forbidden page
+| &check; | Clicking login / register load sigin up and login page
+| &check; | Typing in a incorrect URL on the page loads the 404 error page
+
+| Status | **Main Website -User Logged In**
+|:-------:|:-------|
+| &check; | typing in a incorrect URl on the page load the 404 error page
+| &check; | pasting page that need authentication loads forbidden page
+| &check; | Clicking the nav home load the home page
+| &check; | Clicking the nav about load the about page
+| &check; | Clicking the nav create post load the create post page
+| &check; | Clicking the nav profile load profile page
+| &check; | Clicking the update button on post load update page
+| &check; | Clicking the delete button on post load delete page
+
+| Status | **Main Websit - Admin Logged In**
+|:-------:|:-------|
+| &check; | Total user show correct numbers of total user
+| &check; | Total posts show correct numbers of posts
+
+| Status | **Create Post - User Logged In**
+|:-------:|:-------|
+| &check; | Title field is required and not accept empty field
+| &check; | Content field is required and not accept empty field
+
+| Satuts | **Create New User - User Logged Out**
+|:-------:|:-------|
+| &check; | Username is required and not accept emty feild
+| &check; | Eamil is required and not accept empty feild
+| &check; | Password field don't accept empty feild
+| &check; | Success message is displayed when the user submit user form
+
+
 
 
 
