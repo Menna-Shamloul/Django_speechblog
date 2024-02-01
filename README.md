@@ -14,6 +14,7 @@ With this idea, I created"Speech Blog"it is blog for parents to exhange ideas an
     * [User Stories](<#user-stories>)
     * [Site Structure](<#site-structure>)
     * [Design Choices](<#design-choices>)
+
 * [**Existing Features**](<#existing-features>)
     * [Navigation](<#navigation>)
     * [About](<#about>)
@@ -26,4 +27,18 @@ With this idea, I created"Speech Blog"it is blog for parents to exhange ideas an
     * [Footer](<#footer>)
     * [Messages](<#messages>)
 
+* [**Features Left To Implement**](<#features-left-to-implement>)
+
+* [**Technologies Used**](<#technologies-used>)
+    * [Languages](<#languages>)
+    * [Frameworks](<#frameworks>)
+    * [Libraries](<#libraries>)
+
+* [**Testing**](<#testing>)
+    * [Testing User Stories](<#testing-user-stories>)
+    * [Code Validation](<#code-validation>)
+
+* [Deployment](<#deployment>)
+* [Credits](<#credits>)
+* [Acknowledgments](<#acknowledgments>)
     
