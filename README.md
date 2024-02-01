@@ -178,6 +178,51 @@ The footer area icludes (Home,Admin ,About).
 * CSS - provides the styling of the web site.
 * Javascript - provides interactive elements of the website.
 
+## Frameworks
+* Bootstrap - a CSS franework that help building style for the site.
+* Django - A model framework template framework used to create the site.
+* Balsamiq - Used to create wireframe.
+* Github - Used to host and edit website.
+* Heroku - Acloud plateform that the application is deployed.
+* Lighthouse - Used to test performance of the site.
+* Responsive Desgin Checher - Used for test responsiveness.
+* HTML validation - Used html validation.
+* CSS validation - Used css validation.
+* PEP8 validation - Used python validation
+
+## Libraries
+* Gunicorn
+* Django Crispy Form
+
+# Testing
+
+## Testing User Stories
+
+* As a Site User | I can view all the posts so that I can select one to read
+   * At the top of the site there nav bar with link that lists all posts when user click on it.
+
+* As a Site User | I can click on specific post so that I can read the whole post
+   * At the home page  when the user click on on post it open to see it.
+
+* As a Site User | I can sign up an account so that so that I can create,update and delete post, create profile and view other posts
+   * In the navigation bar the user can click the login / sigin up for new account.when this is done the user can interact in site.
+
+* As a Site User | I can create profile page so that I can put my information in site and update it
+   * If the user is logged in there is profile page in navigaition bar where the user can fill profile detail and update it.
+
+* As a Site User | I can create post so that I can contribute to with new post
+   * When the user is logged in they can craete posts through the create button in navbar.
+
+* As a Site User | I can log out from the site so that I can feel safe that nobody can access my information
+   * When the user is logged in it possible to choose logout in naviagtion bar.
+
+* As a Site Admin | I can logout out from the site so that I can feel safe that nobody can access my information
+   * When the admin is logged in it is possible to logout.
+
+* As a Site Admin | I can access admin area so that I can get a general understanding of logged in users and posts
+   * In the admin area there is an summary area in top with general inaformation.
+
+
 
 
 
