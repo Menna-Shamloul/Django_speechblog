@@ -41,4 +41,20 @@ With this idea, I created"Speech Blog"it is blog for parents to exhange ideas an
 * [Deployment](<#deployment>)
 * [Credits](<#credits>)
 * [Acknowledgments](<#acknowledgments>)
+
+# **Project**
+
+## Objective
+I have decided to do Speech blog site that is as authentic and useful as possible. I also want to demonstrate my knowledge within the area of HTML,CSS,Javascript and Python.
+
+## Site Users Goal
+The user of ' Speech Blog ' to interact with other parants and shareing the informations and experiences about speech delay with each aother.
+
+## Site Owners Goal
+The goal of the site owner is to deliver a site where the users in an intuitive way can read about the latest informations and experiences.
+
+### Database Schema
+Lucidchart was used to create a database schema to visualise the type of post model the project requires. This schema was used as a guide to what needed to be add.It shows the relationship  between user, post , and profile.
+
+![Database Schema]()
     
