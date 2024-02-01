@@ -162,5 +162,23 @@ The footer area icludes (Home,Admin ,About).
 
 ![Footer]()
 
+### Features Left To Implement
+
+* Add search option in the site.
+* Add make comment in the users post.
+* Add user's post in their profile page.
+* Add images to user profile.
+
+# Technologies Used
+
+## Languages
+
+* Python - provides the functionality for the site.
+* HTML5 - provides the content and the structure for the website.
+* CSS - provides the styling of the web site.
+* Javascript - provides interactive elements of the website.
+
+
+
 
     
