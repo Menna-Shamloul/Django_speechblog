@@ -9,4 +9,9 @@ With this idea, I created"Speech Blog"it is blog for parents to exhange ideas an
     * [Objective](<#objective>)
     * [Site Users Goal](<#site-users-goal>)
     * [Site Owner Goal](<#site-owner-goal>)
+* [**User Experience (UX)**](<#user-experience-ux>)
+    * [Wireframes](<#wireframes>)
+    * [User Stories](<#user-stories>)
+    * [Site Structure](<#site-structure>)
+    * [Design Choices](<#design-choices>)
     
