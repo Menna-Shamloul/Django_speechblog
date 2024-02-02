@@ -56,7 +56,7 @@ The goal of the site owner is to deliver a site where the users in an intuitive 
 ### Database Schema
 Lucidchart was used to create a database schema to visualise the type of post model the project requires. This schema was used as a guide to what needed to be add.It shows the relationship  between user, post , and profile.
 
-![Database Schema]()
+![Database Schema](readme/assets/imgs/digram-img.png)
 
 # **User Experience (UX)**
 
@@ -111,7 +111,7 @@ The navigation bar is very clean and straight forward. Depending if you are logg
 * Register
 * Login/sign up
 
-![Navigation - User Not Logged IN]()
+![Navigation - User Not Logged IN](readme/assets/imgs/login-img.png)
 
 * Links that are visible to logged in users:
 * Home
@@ -120,22 +120,22 @@ The navigation bar is very clean and straight forward. Depending if you are logg
 * Profile
 * Logout
 
-![Navigation - User Logged In]()
+![Navigation - User Logged In](readme/assets/imgs/hme-img.png)
 
 ### **About**
 In about page the user can read the informations about the site.
 
-![About]()
+![About](readme/assets/imgs/about-img.png)
 
 ### **Home**
 In this page logged in users can see all posts.
 
-![Home]()
+![Home](readme/assets/imgs/hme-img.png)
 
 ### **Create Post**
 In this page logged in user can create posts.
 
-![Create]()
+![Create](readme/assets/imgs/create-img.png)
 
 ### **Updata And Delete Post**
 The logged in user can update and delete his posts.
@@ -145,22 +145,22 @@ The logged in user can update and delete his posts.
 ### **Profile Page**
 On this page user can view and updata their own profile page.
 
-![Profile Page]()
+![Profile Page](readme/assets/imgs/profil-img.png)
 
 ### **Sign Up**
 If the site vistor has no registered user at site.
 
-![Sign Up]()
+![Sign Up](readme/assets/imgs/registr-img.png)
 
 ### **Log Out**
 When the user logout in the navbar.
 
-![Log Out]()
+![Log Out](readme/assets/imgs/logout-img.png)
 
 ### **Footer**
 The footer area icludes (Home,Admin ,About).
 
-![Footer]()
+![Footer](readme/assets/imgs/login-img.png)
 
 ### Features Left To Implement
 
@@ -230,7 +230,7 @@ When validating my own code , there is no errors.
 
 ### CSS Validation
 when validating my own code, there is no errors.
-![CSS Result]()
+![CSS Result](readme/assets/imgs/ccs-img.png)
 
 ### Python Validation
 When validating my own code, there is no errors
