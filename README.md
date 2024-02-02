@@ -305,7 +305,25 @@ The steps to add the app to heroku are as follows:
 - In the deployment method section, select GitHub and follow the steps to connect it with heroku.
 - The last step is deploy branch manually by clicking the button Deploy Branch. 
 
+# Credits
 
+## Content
+
+* All text content I took it from [Speech Therapy]()
+
+## Technical
+
+* I followed tutorial step by step in making the project[Tutorial]()
+* Inspiration regarding css code to add animations and hue-rotate from [GeeksforGeeks]()
+* Inspiration regarding crispy form and something in database from walk through project" Blog" by Code institute
+* Inspiration regarding css code to make background gradient and svg [W3schools]()
+
+# Acknowledgements
+I would like to acknowledge the following people who have helped me along the way in completong my project:
+
+* My husband, Tarek for all his support .
+* My mentor, Precious for all his guidance and inspiration.
+* My Kids for their support.
 
 
     
