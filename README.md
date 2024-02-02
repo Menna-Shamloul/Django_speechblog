@@ -272,6 +272,19 @@ When validating my own code, there is no errors
 | &check; | Password field don't accept empty feild
 | &check; | Success message is displayed when the user submit user form
 
+### Responsiveness Test
+The site is responsive and it test in all devise.
+
+### Browser Compatibilty
+The site is work on Google Chrome, Mozilla Firefox, and Apple safari
+
+### Lighthouse Report
+The website was tested with Google Lighthouse
+
+![Lighthouse Review]()
+
+## Bugs
+
 
 
 
