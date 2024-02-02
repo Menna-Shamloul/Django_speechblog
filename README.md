@@ -285,7 +285,25 @@ The website was tested with Google Lighthouse
 
 ## Bugs
 
+# Deployment
+The site was deployed in heroku
 
+## Deployment Preparation
+Before deployment, the following steps were taken to prepare the application for the deployment on heroku:
+- In the setting.py the Debuge was set to False.
+- All the dependencies were stored in the requirment.txt.
+- The start command for the application web gunicorn was stored in a Procfile.
+
+## Setup
+The steps to add the app to heroku are as follows:
+- Create new app from the heroku dashboard.
+- Enter a name of the app and select region, then click on create app.
+- On the page of the app that open, go to setting tab.
+- In setting add the necessary config var, I add collectaive static and database url.
+- Next add the buildpack Heroku/Python.
+- Afterwards go to the deploy tab on the app page.
+- In the deployment method section, select GitHub and follow the steps to connect it with heroku.
+- The last step is deploy branch manually by clicking the button Deploy Branch. 
 
 
 
