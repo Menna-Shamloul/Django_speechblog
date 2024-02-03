@@ -1,7 +1,7 @@
 # **Speech Blog**
 The idea behind Speech Blog is simple: you can do wonders for your child when you have the right mix of data and support.I learned this first hand when my daughter's speech and language wasn't developing as expected.After working with speech language pathologists, I realized how important it is for us to have access to information,expertise and encourgement that puts parents first.
 With this idea, I created"Speech Blog"it is blog for parents to exhange ideas and informations to handle speech delay issue.
-![Sppech Blog]()
+
 
 # Table of Content
 
@@ -63,7 +63,7 @@ Lucidchart was used to create a database schema to visualise the type of post mo
 ## Wireframes
 The wireframes for the site were created in the Balsamiq.It have been created for desktop,tablet and mobile devices.
 
-![Wireframes]()
+![Wireframes](readme/assets/imgs/wireframe-img.png)
 
 ## User Stories
 Below the user stories for the project are listed to clarify why particular feature matters.
@@ -97,7 +97,7 @@ The Speech Blog site is spilte in two parts:when the user is logout( see only re
 * ### Color Scheme
 The color scheme chosen for ' Speech Blog' is cheerful to attract the users.
 
-![Color Platte image]()
+![Color Platte image](readme/assets/imgs/schema-img.png)
 
 * ### Typography
 
@@ -225,16 +225,16 @@ The footer area icludes (Home,Admin ,About).
 ## Code Validation
 
 ### HTML validation
-When validating my own code , there is no errors.
-![HTML Result]()
+When validating my own code , there is only one error which is duplicate id and i cant fix this error due to time shortage.
+
 
 ### CSS Validation
 when validating my own code, there is no errors.
 ![CSS Result](readme/assets/imgs/ccs-img.png)
 
 ### Python Validation
-When validating my own code, there is no errors
-![Python Result]()
+When validating my own code, there is only one error which is the line of code is too long and i cant fixed it because it will effect my code.
+
 
 ### Manual Testing
 
@@ -281,9 +281,10 @@ The site is work on Google Chrome, Mozilla Firefox, and Apple safari
 ### Lighthouse Report
 The website was tested with Google Lighthouse
 
-![Lighthouse Review]()
+![Lighthouse Review](readme/assets/imgs/lighthouse-img.png)
 
 ## Bugs
+I cant fix the error in html validation and the error in python
 
 # Deployment
 The site was deployed in heroku
@@ -309,14 +310,14 @@ The steps to add the app to heroku are as follows:
 
 ## Content
 
-* All text content I took it from [Speech Therapy]()
+* All text content I took it from [Speech Therapy](https://speechtherapy.com)
 
 ## Technical
 
-* I followed tutorial step by step in making the project[Tutorial]()
+* I followed tutorial step by step in making the project[Tutorial](https://www.youtube.com/watch?v=OBsLgCm-Ayo)
 * Inspiration regarding css code to add animations and hue-rotate from [GeeksforGeeks]()
 * Inspiration regarding crispy form and something in database from walk through project" Blog" by Code institute
-* Inspiration regarding css code to make background gradient and svg [W3schools]()
+* Inspiration regarding css code to make background gradient and svg [W3schools](https://www.w3schools.com)
 
 # Acknowledgements
 I would like to acknowledge the following people who have helped me along the way in completong my project:
